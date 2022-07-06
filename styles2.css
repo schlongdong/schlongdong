@@ -1,0 +1,92 @@
+
+
+html {
+    background: aliceBlue url(/images/textures/white4a.jpg)
+    font: normal 15x poppins, sans serif    
+}
+
+body {
+  margin: 0 auto 0 auto;
+  width: 2100px;
+}
+
+header,
+footer {
+  background: white;
+  border: 2px solid steelblue;
+  text-align: center;
+  margin: 20px 10px 20px 10px;
+}
+
+h1,
+h3 {
+  color: steelblue;
+}
+
+h1 {
+  text-shadow: 1px 1px 0 lightBlue, 2px 2px 3px steelblue;
+  font: bold 25px Righteous, cursive;
+  margin: 10px;
+}
+
+h3 {
+  font: bold 16px Poppins, sans-serif;
+  margin: 10px 10px 8px 10px;
+}
+ 
+a 
+  color: lightskyblue;
+  text-decoration: none;
+}
+
+h2 {
+  color:steelblue
+    
+    }    
+a:hover {
+  color: dodgerBlue;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: skyblue;
+}
+
+img {
+  border: 4px solid white;
+  box-shadow: 1px 1px 4px 1px lightGray;
+  height: 230px;
+  margin: 500px 500px 500px 500px 500px 500px 500px;
+}
+
+p {
+  font-size 20px  
+  margin: 10px;
+  text-align: justify;
+}
+
+ul {
+  list-style-image: url(/images/icons/icon7.png);
+}
+
+.button {
+  background-color: #4CAF50; /* lightblue */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.button 2 {
+  background-color: #4CAF50; /* lightblue */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
